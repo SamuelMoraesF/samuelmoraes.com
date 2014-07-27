@@ -1,0 +1,53 @@
+title:            Samuel Moraes
+description:      Just a developer
+reading_time:     false
+words_per_minute: 200
+url:              http://localhost:4000
+
+owner:
+  name:           Samuel Moraes
+  avatar:         avatar.jpg
+  bio:            "É administrador de sistemas, entusiasta de sotware livre e afins. Tem 15 anos de idade e atua como voluntário em comunidades como TchêLinux, Mozilla e GU Mobile."
+  email:          samuel@samuelmoraes.com
+  github:         https://github.com/SamuelMoraesF
+
+background: 
+
+# Links to include in top navigation
+# For external links add external: true
+# links:
+#   - title: Theme Setup
+#     url: /theme-setup
+#   - title: External Link
+#     url: http://samuelmoraes.com
+#     external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Sao_Paulo
+future:      true
+highlighter:    true
+#highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "example.txt"]

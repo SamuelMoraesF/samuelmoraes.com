@@ -1,0 +1,12 @@
+---
+#page or post
+layout: page
+permalink: /post-url/
+title: Post Title
+image:
+  feature: image.jpg
+  credit: Samuel Moraes
+  creditlink: http://www.samuelmoraes.com
+share: true
+---
+
