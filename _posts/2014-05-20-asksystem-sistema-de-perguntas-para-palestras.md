@@ -4,6 +4,8 @@ permalink: /asksystem-sistema-de-perguntas-para-palestras/
 title: AskSystem - Sistema de perguntas para palestras
 image:
   feature: background.jpg
+tags:
+- TcheLinux
 ---
 
 Está disponível no meu [GitHub](https://github.com/SamuelMoraesF/) o código fonte do [AskSystem](https://github.com/SamuelMoraesF/AskSystem), um sistema de perguntas para palestras desenvolvido por mim.

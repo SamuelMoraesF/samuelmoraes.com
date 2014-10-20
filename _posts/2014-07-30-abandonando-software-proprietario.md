@@ -4,6 +4,8 @@ permalink: /abandonando-software-proprietario/
 title: Abandonando Software Proprietário
 image:
   feature: background.jpg
+tags:
+- TcheLinux
 ---
 
 Tomei uma decisão meio que drástica, reduzir ao máximo o uso de Software Proprietário(afinal, deixar de utilizar não vai ser possível, uma vez ou outra vou ter que mecher num no trabalho ou na escola).

@@ -4,6 +4,9 @@ permalink: /mozilla-brasil-no-fisl15/
 title: Mozilla Brasil no Fisl15
 image:
   feature: background.jpg
+tags:
+- Mozilla
+- TcheLinux
 ---
 
 A comunidade Mozilla Brasil está presente na 15ª edição do Fórum Internacional de Software Livre desempenhando diversas atividades, tais como oficinas e palestras sobre Webmaker, Firefox OS, entre outros projetos da Mozilla ajudando os usuários a conhecer nossa missão: manter a Internet viva e acessível para que todas as pessoas sejam contribuidoras e criadoras da Web. Acreditamos que o trabalho comunitário em uma plataforma de código aberto é essencial para nosso crescimento pessoal e para o futuro da sociedade.

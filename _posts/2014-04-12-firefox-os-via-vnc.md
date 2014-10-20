@@ -4,6 +4,8 @@ permalink: /firefox-os-via-vnc/index.html
 title: Firefox OS via VNC
 image:
   feature: background.jpg
+tags:
+- Mozilla
 ---
 
 Eu estava louco de raiva por meu smartphone não ser compatível com o Firefox OS(<a href="https://developer.mozilla.org/en-US/Firefox_OS/Firefox_OS_build_prerequisites">Veja aqui a lista de dispositivos compatíveis</a>), quando tive a idéia de simplesmente acessá-lo pelo smartphone através do VNC.
