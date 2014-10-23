@@ -1,0 +1,4 @@
+ErrorDocument 404 /404.html
+redirect 301 /rss feed.xml
+redirect 301 /feed feed.xml
+
