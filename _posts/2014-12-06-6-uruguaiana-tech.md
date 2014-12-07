@@ -12,9 +12,9 @@ tags:
 Dia 4 e 5 de Dezembro ocorreu o 6º Uruguaiana Tech(em Uruguaiana - RS). Eu e o Nelson Dutra([@dutrafox](http://facebook.com/dutrafox)) marcamos presença
 representando a comunidade Mozilla Brasil.
 
-## Viajem
+## Viagem
 
-Tudo certo para a viajem, passagens compradas para o ônibus das 12h, recebi visita da [Gabi](https://www.facebook.com/gabrielli.carvalho.585) e do [Rafael](https://www.facebook.com/profile.php?id=100003244576480) na rodoviária. Estava tudo bem, até chegar o "ônibus".
+Tudo certo para a viagem, passagens compradas para o ônibus das 12h, recebi visita da [Gabi](https://www.facebook.com/gabrielli.carvalho.585) e do [Rafael](https://www.facebook.com/profile.php?id=100003244576480) na rodoviária. Estava tudo bem, até chegar o "ônibus".
 
 ![Ônibus](/images/posts/6-uruguaiana-tech/SaoJoao.jpg)
 
