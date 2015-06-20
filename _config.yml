@@ -25,8 +25,8 @@ background:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
 future:      true
-highlighter:    true
-#highlighter: pygments
+#highlighter:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
