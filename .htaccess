@@ -2,3 +2,16 @@ ErrorDocument 404 /404.html
 redirect 301 /rss /feed.xml
 redirect 301 /feed /feed.xml
 
+# Cache
+# 1 ANO
+<FilesMatch "\.(ico|pdf|flv)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+# 1 SEMANA
+<FilesMatch "\.(jpg|jpeg|png|gif|swf|xml|txt|css|js)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+# 1 MINUTO
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=86400, private, proxy-revalidate"
+</FilesMatch>
